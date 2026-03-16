@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.1/app-v1.1.apk",
-  "notes": "• Test de mise à jour automatique\n• Ça fonctionne !"
+  "versionCode": 3,
+  "versionName": "1.2",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.2/app-release.apk",
+  "notes": "🎨 Interface sombre unifiée\n📋 Import CSV amélioré\n🔑 Système de licences\n🐛 Corrections diverses"
 }
