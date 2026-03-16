@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.2/app-v1.2.apk",
-  "notes": "🎨 Interface sombre unifiée\n📋 Import CSV amélioré\n🔑 Système de licences\n🐛 Corrections diverses"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.3/app-v1.3.apk",
+  "notes": "🎨 Style sombre unifié (dates, cadres)\n🔧 Corrections UI\n🔒 Suppression affichage mot de passe"
 }
