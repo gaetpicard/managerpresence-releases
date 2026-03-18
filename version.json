@@ -5,7 +5,7 @@
   "notes": "🎟️ Système de licences
 - Activation de codes via le champ mot de passe (format XXX-XXXX-XXXX)
 - Message de patience pendant l'activation
-- Affichage temps réel du statut licence dans "À propos"
+- Affichage temps réel du statut licence dans 'À propos'
 
 🔧 Corrections techniques
 - Timeout réseau augmenté (90s) pour serveurs lents
