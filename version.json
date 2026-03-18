@@ -1,6 +1,14 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.4/app-v1.4.apk",
-  "notes": "🎨 Style sombre unifié (dates, cadres)\n🔧 Corrections UI\n🔒 Suppression affichage mot de passe"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.5/app-v1.5.apk",
+  "notes": "🎟️ Système de licences
+- Activation de codes via le champ mot de passe (format XXX-XXXX-XXXX)
+- Message de patience pendant l'activation
+- Affichage temps réel du statut licence dans "À propos"
+
+🔧 Corrections techniques
+- Timeout réseau augmenté (90s) pour serveurs lents
+- Cache licence effacé au changement de structure
+- Version dynamique depuis build.gradle.kts"
 }
