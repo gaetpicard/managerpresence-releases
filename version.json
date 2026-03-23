@@ -1,6 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.6/app-v1.6.apk",
-  "notes": "bouton de recherche de disponibilité de MAJ dans le menu info"
+  "versionCode": 9,
+  "versionName": "1.7",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.7/app-v1.7.apk",
+  "notes": "- installation automatique des mises à jour
+  - couleur des textes adaptatives / fonds et thèmes
+  - traductions complétées"
 }
