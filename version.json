@@ -1,8 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.7/app-v1.7.apk",
-  "notes": "- installation automatique des mises à jour
-  - couleur des textes adaptatives / fonds et thèmes
-  - traductions complétées"
+  "versionCode": 10,
+  "versionName": "1.8",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.8/app-v1.8.apk",
+  "notes": "- création PWA access "
 }
