@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.1",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.1/app-v1.9.1.apk",
-  "notes": "amélioration réveil serveur pour PWA "
+  "versionCode": 13,
+  "versionName": "1.9.2",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.2/app-v1.9.2.apk",
+  "notes": "téléchargement et installation automatique de la maj à l'ouverture de l'appli "
 }
