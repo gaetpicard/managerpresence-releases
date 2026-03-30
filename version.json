@@ -1,56 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.9.3",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.3/app-v1.9.3.apk",
+  "versionCode": 15,
+  "versionName": "1.9.4",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.4/app-v1.9.4.apk",
   "notes": "
-✅ 1. Message d'erreur hors ligne corrigé
-
-Détection des erreurs réseau (network, timeout, UnknownHostException, etc.)
-Nouveau message : 📶 Pas de connexion internet. Vérifiez votre réseau et réessayez.
-
-✅ 2. Bouton Voir fiche ajouté dans le dialogue triple-clic
-
-Bouton 📋 Voir fiche dans le dialogue des notes
-Ouvre directement la fiche contact de l'élève
-
-✅ 3. Data class NiveauPasseport créée
-
-Champs : id, nom, couleur (ARGB Long), ordre
-Fonctions : bgColor(), textColor() (calcul automatique selon luminosité)
-Liste globale niveaux avec chargement Firebase
-
-✅ 4. Terme personnalisable ajouté
-
-Nouveau champ niveau dans AppTermes (défaut : Niveau)
-Suggestions : Passeport, Ceinture, Grade, Badge...
-Dialogue de modification dans le panneau de gestion
-
-✅ 5. Champ niveauIds ajouté dans Eleve
-
-Liste des IDs de niveaux attribués
-Fonction getNiveauPrincipal() pour obtenir le niveau le plus avancé
-
-✅ 6. Cases de noms colorées selon le niveau
-
-Fond gris foncé par défaut (aucun niveau)
-Couleur du niveau si attribué
-Texte adaptatif (blanc/noir selon luminosité)
-
-✅ 7. Section Niveaux dans EditEleveDialog
-
-Sélection multiple avec pastilles colorées
-Dropdown avec prévisualisation des couleurs
-
-✅ 8. Menu de gestion des niveaux dans page Élèves
-
-Bouton 🎨 Niveaux dans la barre de titre
-Création/modification/suppression de niveaux
-Palette de 12 couleurs prédéfinies
-Aperçu en temps réel
-
-✅ 9. Attribution en paquet des niveaux
-
-Bouton 👥 Attribuer niveaux en paquet
-Sélection multiple d'élèves
-Indicateur visuel des niveaux actuels"
+correctifs visuels , diag smtp
 }
