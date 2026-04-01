@@ -1,8 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.9.7",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.7/app-v1.9.7.apk",
-  "notes": "correctifs màj et installation auto 
-correctif persistance adresse backend
-correctif message log test email "
+  "versionCode": 20,
+  "versionName": "1.9.8",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.8/app-v1.9.8.apk",
+  "notes": "correctifs chargement des pastilles passeport "
 }
