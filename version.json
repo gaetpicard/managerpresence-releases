@@ -1,8 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.9.9",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v1.9.9/app-v1.9.9.apk",
-  "notes": "🌍 Traductions ajoutées (~350 clés) :
-
-Erreurs SMTP avec tips de résolution "
+  "versionCode": 22,
+  "versionName": "2.0",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.0/app-v2.0.apk",
+  "notes": "affichage pastilles de niveaux au démarrage"
 }
