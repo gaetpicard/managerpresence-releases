@@ -1,8 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "2.1",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.1/app-v2.1.apk",
-  "notes": "affichage pastilles de niveaux au démarrage
-  fix smtp
-  fingerprint otpion"
+  "versionCode": 24,
+  "versionName": "2.2",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.2/app-v2.2.apk",
+  "notes": "statistiques améliorées"
 }
