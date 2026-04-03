@@ -1,6 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "2.2",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.2/app-v2.2.apk",
-  "notes": "statistiques améliorées"
+  "versionCode": 25,
+  "versionName": "2.3",
+  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.3/app-v2.3.apk",
+  "notes": "fix progard ( email)
+  amélioration traductions"
 }
