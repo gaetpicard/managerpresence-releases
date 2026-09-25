@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.10",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.10.apk",
-  "notes": "Ordre des dates corrigé au-delà du 1er janvier, bouton Calculer réparé, import CSV corrigé (colonnes e-mail et téléphone), mots de passe sans suggestions, clé navigateur pour la sécurité"
+  "versionCode": 33,
+  "versionName": "2.11",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.11.apk",
+  "notes": "Clé navigateur transmise automatiquement à la PWA : les clés d'API peuvent être restreintes séparément, ce qui rend inutilisable une clé extraite de l'application."
 }
