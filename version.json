@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "2.9",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.9.apk",
-  "notes": "Ordre des dates corrigé dans le tableau, calendrier scolaire mis à jour automatiquement, retour possible si la licence est expirée, nouvelle saison"
+  "versionCode": 32,
+  "versionName": "2.10",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.10.apk",
+  "notes": "Ordre des dates corrigé au-delà du 1er janvier, bouton Calculer réparé, import CSV corrigé (colonnes e-mail et téléphone), mots de passe sans suggestions, clé navigateur pour la sécurité"
 }
