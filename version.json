@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.7",
-  "url": "https://github.com/gaetpicard/managerpresence-releases/releases/download/v2.7/app-v2.7.apk",
-  "notes": "tuto de présentation, création simplifiée ,système de licence intégré"
+  "versionCode": 31,
+  "versionName": "2.9",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.9.apk",
+  "notes": "Ordre des dates corrigé dans le tableau, calendrier scolaire mis à jour automatiquement, retour possible si la licence est expirée, nouvelle saison"
 }
