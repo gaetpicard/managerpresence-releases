@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.11",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.11.apk",
-  "notes": "Clé navigateur transmise automatiquement à la PWA : les clés d'API peuvent être restreintes séparément, ce qui rend inutilisable une clé extraite de l'application."
+  "versionCode": 34,
+  "versionName": "2.12",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.12.apk",
+  "notes": "Le bouton « Gérer mon abonnement » affiche désormais un message au lieu de rester sans réaction, notamment pour les licences à vie qui n'ont pas d'abonnement à gérer."
 }
