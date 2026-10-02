@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "2.12",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.12.apk",
-  "notes": "Le bouton « Gérer mon abonnement » affiche désormais un message au lieu de rester sans réaction, notamment pour les licences à vie qui n'ont pas d'abonnement à gérer."
+  "versionCode": 35,
+  "versionName": "2.13",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.13.apk",
+  "notes": "Les pointages suivent désormais l'élève lorsqu'on le change de créneau : son historique reste visible au lieu de disparaître."
 }
