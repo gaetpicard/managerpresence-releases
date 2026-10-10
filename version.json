@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "2.13",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.13.apk",
-  "notes": "Les pointages suivent désormais l'élève lorsqu'on le change de créneau : son historique reste visible au lieu de disparaître."
+  "versionCode": 36,
+  "versionName": "2.14",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.14.apk",
+  "notes": "Fin des plantages au démarrage. Les structures sont vérifiées en arrière-plan et une alerte prévient si l'une n'est plus accessible. Bouton « ← Structures » sur l'écran de connexion. Le rappel d'appel sonne désormais comme un réveil jusqu'à validation ou report. Création de structure plus fiable et mieux sécurisée."
 }
