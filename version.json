@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "2.16",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.16.apk",
-  "notes": "Création de structure avec un compte Google tout neuf : l'app guide pas à pas pour donner l'accord demandé par Google, puis la création reprend toute seule. En cas d'erreur, la vraie raison est affichée."
+  "versionCode": 39,
+  "versionName": "2.17",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.17.apk",
+  "notes": "Création de structure : avec un compte Google tout neuf, la page d'accord Google s'ouvre et se referme toute seule, puis la création reprend. Les noms avec accents sont acceptés."
 }
