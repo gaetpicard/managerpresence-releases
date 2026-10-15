@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "2.20",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.20.apk",
-  "notes": "Choix d'une structure : chargement affiché tout de suite et fin de l'attente d'environ 10 secondes. Changer de structure redemande toujours le mot de passe."
+  "versionCode": 43,
+  "versionName": "2.21",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.21.apk",
+  "notes": "Corrige un plantage possible en changeant de structure. Chargement plus rapide et visible au choix d'une structure ; le mot de passe est toujours redemandé."
 }
