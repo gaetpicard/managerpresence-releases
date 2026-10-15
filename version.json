@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "2.19",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.19.apk",
-  "notes": "Sécurité : changer de structure redemande toujours le mot de passe (même après avoir quitté puis rouvert l'app). Protection des bases des nouvelles structures (App Check) en préparation."
+  "versionCode": 42,
+  "versionName": "2.20",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.20.apk",
+  "notes": "Choix d'une structure : chargement affiché tout de suite et fin de l'attente d'environ 10 secondes. Changer de structure redemande toujours le mot de passe."
 }
