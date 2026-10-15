@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "2.18",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.18.apk",
-  "notes": "Création de structure : en cas d'erreur, boutons « Réessayer » (reprend là où ça s'est arrêté, sans tout refaire) et « Abandonner ». La reprise est aussi proposée à l'ouverture de l'app."
+  "versionCode": 41,
+  "versionName": "2.19",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.19.apk",
+  "notes": "Sécurité : changer de structure redemande toujours le mot de passe (même après avoir quitté puis rouvert l'app). Protection des bases des nouvelles structures (App Check) en préparation."
 }
