@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "2.21",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.21.apk",
-  "notes": "Corrige un plantage possible en changeant de structure. Chargement plus rapide et visible au choix d'une structure ; le mot de passe est toujours redemandé."
+  "versionCode": 47,
+  "versionName": "2.25",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.25.apk",
+  "notes": "Nouveau : 🙋 Disponibilités des encadrants (Oui / Peut-être / Non sur les 8 prochaines séances, jauge, rappel, discussion par séance, journal des présences des cadres). L'appel note les encadrants présents. À l'ouverture, le tableau montre la dernière et la prochaine séance. Traductions complétées. Inclut aussi : vacances (le samedi reste un jour de cours), mails d'absence depuis le Gmail de la structure, formulaire de support."
 }
