@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "2.29",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.29.apk",
-  "notes": "Écran 🙋 : l'onglet où il te manque des réponses (séances ou 🏔 sorties) clignote en orange avec le nombre de réponses manquantes ; l'écran s'ouvre directement sur les sorties si c'est la seule chose en attente."
+  "versionCode": 52,
+  "versionName": "2.30",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.30.apk",
+  "notes": "Affichage corrigé sur les petits écrans ou avec un texte agrandi : les icônes du haut (🙋, 📚, ⚙…) passent sous le titre au lieu de disparaître, l'icône 🔄 n'est plus coupée et le ⓘ est centré. Rien ne change sur les autres téléphones."
 }
