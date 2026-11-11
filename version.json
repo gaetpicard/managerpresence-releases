@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "2.30",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.30.apk",
-  "notes": "Affichage corrigé sur les petits écrans ou avec un texte agrandi : les icônes du haut (🙋, 📚, ⚙…) passent sous le titre au lieu de disparaître, l'icône 🔄 n'est plus coupée et le ⓘ est centré. Rien ne change sur les autres téléphones."
+  "versionCode": 53,
+  "versionName": "2.31",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.31.apk",
+  "notes": "Écran 🙋 : ton vote s'affiche tout de suite (séances et sorties) ; les votes ne sont plus modifiables une fois la date passée ; le journal indique le cadre qui a validé l'appel quand personne n'a été coché. Affichage corrigé avec un texte agrandi (ⓘ et pastille 🙋)."
 }
