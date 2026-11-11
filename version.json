@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "2.28",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.28.apk",
-  "notes": "Nouveau : 🏔 Sorties (dans l'écran 🙋) : création par les cadres, élèves inscrits, votes et jauge, appel de la sortie, journal ; les élèves en sortie ne sont pas pointés dans leur groupe ; option pour annuler la salle ce jour-là. Mot de passe SU validable par empreinte. Génération de dates : message corrigé, plus de doublons."
+  "versionCode": 51,
+  "versionName": "2.29",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.29.apk",
+  "notes": "Écran 🙋 : l'onglet où il te manque des réponses (séances ou 🏔 sorties) clignote en orange avec le nombre de réponses manquantes ; l'écran s'ouvre directement sur les sorties si c'est la seule chose en attente."
 }
