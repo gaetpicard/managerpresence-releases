@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "2.26",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.26.apk",
-  "notes": "🙋 plus visible (clignote tant qu'il reste des créneaux sans réponse). Encadré orange autour du créneau qui n'atteint pas la jauge. Gestion des dates : suppression de plusieurs dates à la fois, plus de doublons à la génération automatique, bouton « Supprimer les doublons »."
+  "versionCode": 50,
+  "versionName": "2.28",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.28.apk",
+  "notes": "Nouveau : 🏔 Sorties (dans l'écran 🙋) : création par les cadres, élèves inscrits, votes et jauge, appel de la sortie, journal ; les élèves en sortie ne sont pas pointés dans leur groupe ; option pour annuler la salle ce jour-là. Mot de passe SU validable par empreinte. Génération de dates : message corrigé, plus de doublons."
 }
