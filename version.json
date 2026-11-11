@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "2.31",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.31.apk",
-  "notes": "Écran 🙋 : ton vote s'affiche tout de suite (séances et sorties) ; les votes ne sont plus modifiables une fois la date passée ; le journal indique le cadre qui a validé l'appel quand personne n'a été coché. Affichage corrigé avec un texte agrandi (ⓘ et pastille 🙋)."
+  "versionCode": 54,
+  "versionName": "2.32",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.32.apk",
+  "notes": "📅 Tes disponibilités dans l'agenda du téléphone : chaque Oui à une séance ou à une sortie y est ajouté, avec un rappel le lundi précédent à 9 h et la veille à 18 h. Activé par défaut (l'appli demande l'accès à l'agenda une fois) ; désactivable dans ⚙."
 }
