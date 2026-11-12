@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "2.33",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.33.apk",
-  "notes": "👆 Mot de passe SU : le bouton empreinte apparaît maintenant dans toutes les fenêtres (la première fois, coche « Activer l'empreinte » et tape le mot de passe). 📅 Agenda : les ajouts et suppressions apparaissent plus vite dans Google Agenda."
+  "versionCode": 56,
+  "versionName": "2.34",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.34.apk",
+  "notes": "🕘 Créneaux classés par heure partout (tableau d'appel compris). 🌓 Affichage toujours clair : fini les textes illisibles en mode sombre. 🙋 Disponibilités : onglets mieux visibles, pastille des sorties prévues, nombre maximal d'encadrants (« Complet »), séance modifiable par un admin (intitulé, encadrants), sortie modifiable seulement par son auteur ou un admin."
 }
