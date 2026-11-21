@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "2.34",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.34.apk",
-  "notes": "🕘 Créneaux classés par heure partout (tableau d'appel compris). 🌓 Affichage toujours clair : fini les textes illisibles en mode sombre. 🙋 Disponibilités : onglets mieux visibles, pastille des sorties prévues, nombre maximal d'encadrants (« Complet »), séance modifiable par un admin (intitulé, encadrants), sortie modifiable seulement par son auteur ou un admin."
+  "versionCode": 57,
+  "versionName": "2.35",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.35.apk",
+  "notes": "🏔 Sorties : pour chaque élève, ✅ vient ou ❌ ne vient pas. Les élèves sans réponse sont surlignés en orange, comptés, et un filtre « Sans réponse seulement » permet de savoir qui relancer. Nouveau groupe « Sans créneau ». Les élèves supprimés n'apparaissent plus dans l'appel."
 }
