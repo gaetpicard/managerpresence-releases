@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "2.35",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.35.apk",
-  "notes": "🏔 Sorties : pour chaque élève, ✅ vient ou ❌ ne vient pas. Les élèves sans réponse sont surlignés en orange, comptés, et un filtre « Sans réponse seulement » permet de savoir qui relancer. Nouveau groupe « Sans créneau ». Les élèves supprimés n'apparaissent plus dans l'appel."
+  "versionCode": 58,
+  "versionName": "2.36",
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.36.apk",
+  "notes": "🔄 Synchro Google Contacts dans l'écran des élèves (libellés, conflits de numéros, aperçu), comme sur la PWA. 🏔 Sorties : bouton 👥 Participants directement sur la carte, chaque élève n'apparaît qu'une fois (groupe de base), et les encadrants prévus sont comptés dans la jauge. Séances : les cadres déclarés présents comptent aussi."
 }
