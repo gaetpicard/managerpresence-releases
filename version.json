@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "2.37",
-  "minVersionCode": 59,
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.37.apk",
-  "notes": "🏔 Sorties : gros bouton « 📋 Faire l'appel » (orange le jour J), bandeau « Sortie aujourd'hui » en haut du tableau, « ✋ Je suis là » pour les cadres, encadrants présents en haut de l'appel. 🔄 Mises à jour vérifiées à chaque retour sur l'appli ; une mise à jour obligatoire bloque l'appli tant qu'elle n'est pas installée."
+  "versionCode": 60,
+  "versionName": "2.38",
+  "minVersionCode": 60,
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.38.apk",
+  "notes": "✅ La validation de la séance s'ouvre d'elle-même quand tout le monde est pointé (cadre référent obligatoire, puis cadres présents). ⏰ Nouvelle alarme d'appel : carillon et vibration sur le téléphone des cadres annoncés, même appli fermée. 🎟️ Un pass ne peut plus servir à deux personnes. 🌍 Vacances scolaires par pays et région. 🔒 Filigrane sur les exports. 🎁 Appli gratuite : plus de licence ni d'essai."
 }
