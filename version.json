@@ -1,6 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "2.36",
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.36.apk",
-  "notes": "🔄 Synchro Google Contacts dans l'écran des élèves (libellés, conflits de numéros, aperçu), comme sur la PWA. 🏔 Sorties : bouton 👥 Participants directement sur la carte, chaque élève n'apparaît qu'une fois (groupe de base), et les encadrants prévus sont comptés dans la jauge. Séances : les cadres déclarés présents comptent aussi."
+  "versionCode": 59,
+  "versionName": "2.37",
+  "minVersionCode": 59,
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.37.apk",
+  "notes": "🏔 Sorties : gros bouton « 📋 Faire l'appel » (orange le jour J), bandeau « Sortie aujourd'hui » en haut du tableau, « ✋ Je suis là » pour les cadres, encadrants présents en haut de l'appel. 🔄 Mises à jour vérifiées à chaque retour sur l'appli ; une mise à jour obligatoire bloque l'appli tant qu'elle n'est pas installée."
 }
