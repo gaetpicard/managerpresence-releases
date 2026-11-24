@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "2.39",
+  "versionCode": 62,
+  "versionName": "2.40",
   "minVersionCode": 60,
-  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.39.apk",
-  "notes": "⏰ Alarme d'appel : le carillon est joué par l'appli sur le volume des alarmes (même si les notifications sont coupées), avec une vibration d'alarme. 🔄 Mise à jour obligatoire plus claire : une seule fenêtre à la fois. Et toutes les nouveautés de la 2.38 : validation automatique de la séance, pass à usage unique fiable, vacances par pays, filigrane, appli gratuite."
+  "url": "https://raw.githubusercontent.com/gaetpicard/managerpresence-releases/main/apk/app-v2.40.apk",
+  "notes": "⏰ L'alarme d'appel réveille le téléphone, même verrouillé : écran plein écran comme un appel entrant, avec « Ouvrir l'appel » et « Reporter 5 min ». L'appli vous guide pour donner les autorisations nécessaires. ✅ La fenêtre de validation attend 2 secondes après le dernier pointage, le temps de corriger un état."
 }
